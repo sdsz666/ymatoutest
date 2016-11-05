@@ -9,7 +9,7 @@ import com.google.common.collect.ImmutableMap;
  * Hello world!
  *
  */
-public class App 
+public class MainTest 
 {
     public static void main( String[] args )
     {
