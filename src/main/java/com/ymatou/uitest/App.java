@@ -15,7 +15,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         ImmutableMap.of("using", "d", "value", "d");
-        WebDriver webDriver = new ChromeDriver();
         
     }
 }
